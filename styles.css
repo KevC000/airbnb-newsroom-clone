@@ -24,7 +24,6 @@
     }
 }
 
-
 nav {
     position: sticky;
 }
@@ -154,4 +153,14 @@ p {
     margin-bottom: 8px;
     margin-top: 8px;
     text-decoration: none;
+}
+
+#sub-hero {
+    padding-bottom: 50px;
+}
+
+footer {
+    background-color: gainsboro;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
